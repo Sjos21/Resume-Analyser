@@ -12,7 +12,7 @@ const steps = [
   },
   {
     icon: Cpu,
-    title: 'AI Analyzes',
+    title: 'AI Checks',
     description: 'Our AI parses and scores your resume in seconds',
     color: 'from-purple-500 to-purple-600',
   },
@@ -37,7 +37,7 @@ export default function HowItWorks() {
         >
           <h2 className="section-title text-3xl sm:text-4xl">How It Works</h2>
           <p className="section-subtitle max-w-2xl mx-auto">
-            Get your ATS score in three simple steps. No signup, no hassle.
+            Get your ATS score in three simple steps. No signup, no hassle, nothing.
           </p>
         </motion.div>
 

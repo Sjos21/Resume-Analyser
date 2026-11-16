@@ -14,23 +14,23 @@ export default function Footer() {
                 <FileText className="w-5 h-5 text-white" />
               </div>
               <span className="text-xl font-bold font-display">
-                ATS<span className="text-brand-400">Analyzer</span>
+                ATS<span className="text-brand-400">Checker</span>
               </span>
             </div>
             <p className="text-gray-400 max-w-md mb-4">
-              Free AI-powered resume analyzer that helps job seekers understand
+              Free AI-powered resume checker that helps job seekers understand
               how ATS systems read their resumes. Built with cutting-edge tech,
-              shipped with zero bloat. ⚡
+              shipped with zero procastination ;)
             </p>
             <p className="text-brand-400 font-medium mb-4">
-              Built with ❤️ for job seekers everywhere
+              Built with ❤️ for job seekers around the globe
             </p>
             {/* Privacy Notice - Sarcastic */}
             <div className="bg-gray-800 rounded-lg p-3 mb-4 border border-gray-700">
               <p className="text-green-400 text-sm font-medium mb-1">🔒 Zero Data Storage Policy</p>
               <p className="text-gray-400 text-xs">
                 We don&apos;t store your resume data. Seriously, we couldn&apos;t even if we wanted to — 
-                have you seen cloud storage prices? 💸 Your privacy is safe simply because we&apos;re too broke to spy on you.
+                have you seen cloud storage prices? Your privacy is safe simply because we&apos;re too broke to spy on you. 💸
               </p>
             </div>
             <div className="flex items-center gap-2 mb-4">
@@ -44,22 +44,22 @@ export default function Footer() {
             </div>
             <div className="flex flex-col gap-3">
               <a
-                href="https://github.com/itslovepatel/Resume-ATS"
+                href="https://github.com/Sjos21/Resume-Analyser"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors"
               >
                 <Github className="w-5 h-5" />
-                <span>Open Source on GitHub</span>
+                <span>Feel free to go on GitHub</span>
               </a>
               <a
-                href="https://linkedin.com/in/love-patel-"
+                href="https://www.linkedin.com/in/shivranjan-joshi-2aa10b270/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
-                <span>Connect on LinkedIn</span>
+                <span>Let's connect on LinkedIn</span>
               </a>
             </div>
           </div>
@@ -117,27 +117,27 @@ export default function Footer() {
         {/* Bottom */}
         <div className="mt-12 pt-8 border-t border-gray-800 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} ATS Resume Analyzer. Built with ❤️ by{' '}
+            © {new Date().getFullYear()} ATS Resume Checker. Built with ❤️ by{' '}
             <a
-              href="https://github.com/itslovepatel"
+              href="https://github.com/Sjos21"
               target="_blank"
               rel="noopener noreferrer"
               className="text-brand-400 hover:text-brand-300 transition-colors"
             >
-              Love Patel
+              Shivranjan Joshi
             </a>
           </p>
           <div className="flex items-center gap-4">
             <a
-              href="mailto:Lovepatelforwork@gmail.com"
+              href="mailto:joshishivranjan@gmail.com"
               className="text-brand-400 hover:text-white transition-colors font-semibold"
               title="Email"
-              aria-label="Email Love Patel"
+              aria-label="Email Shivranjan Joshi"
             >
               <Mail className="w-5 h-5" />
             </a>
             <a
-              href="https://github.com/itslovepatel/Resume-ATS"
+              href="https://github.com/Sjos21/Resume-Analyser"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"
@@ -146,7 +146,7 @@ export default function Footer() {
               <Github className="w-5 h-5" />
             </a>
             <a
-              href="https://linkedin.com/in/love-patel-"
+              href="https://www.linkedin.com/in/shivranjan-joshi-2aa10b270/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-white transition-colors"

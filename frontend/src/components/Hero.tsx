@@ -35,9 +35,9 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.1 }}
             className="text-4xl sm:text-5xl lg:text-6xl font-extrabold font-display text-gray-900 mb-6 leading-tight"
           >
-            See Your Resume Through
+            See your Resume through
             <br />
-            <span className="text-gradient">an ATS Lens</span>
+            <span className="text-gradient">an ATS lens :)</span>
           </motion.h1>
 
           {/* Subtitle */}
@@ -47,8 +47,8 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto mb-10"
           >
-            Upload your resume and get an ATS score, skills analysis, and
-            recruiter-level insights in seconds. No signup required.
+            Upload your resume and get an ATS score, skills' analysis, and
+            recruiter-level insights in few seconds. No signup required.
           </motion.p>
 
           {/* CTA Button */}
@@ -61,7 +61,7 @@ export default function Hero() {
               href="#upload"
               className="btn-primary text-lg px-8 py-4 inline-flex items-center gap-2 group"
             >
-              Analyze Your Resume
+              Check Your Resume
               <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
             </a>
             <p className="mt-4 text-sm text-gray-500">
@@ -78,15 +78,15 @@ export default function Hero() {
           >
             <div className="flex items-center gap-2 text-gray-600">
               <CheckCircle2 className="w-5 h-5 text-success-500" />
-              <span className="text-sm font-medium">Blazingly Fast ⚡</span>
+              <span className="text-sm font-medium">Fast like Flash ⚡</span>
             </div>
             <div className="flex items-center gap-2 text-gray-600">
               <Shield className="w-5 h-5 text-success-500" />
-              <span className="text-sm font-medium">Zero Data Stored 🔒</span>
+              <span className="text-sm font-medium">Data stored...no no 🔒</span>
             </div>
             <div className="flex items-center gap-2 text-gray-600">
               <Zap className="w-5 h-5 text-success-500" />
-              <span className="text-sm font-medium">100% Open Source</span>
+              <span className="text-sm font-medium">100% open for all</span>
             </div>
           </motion.div>
 
@@ -99,7 +99,7 @@ export default function Hero() {
           >
             <Shield className="w-4 h-4 text-green-600" />
             <span className="text-sm text-green-700 font-medium">
-              Your data? We literally can&apos;t afford the storage to keep it 😅
+              Your data? We literally can&apos;t afford the storage to keep it 😅, yes it's true :(
             </span>
           </motion.div>
         </div>

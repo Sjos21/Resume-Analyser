@@ -73,7 +73,7 @@ export default function WakeUpScreen({ onVerified }: WakeUpScreenProps) {
               <ShieldCheck className="w-8 h-8 text-white" />
             </div>
             <h1 className="text-2xl font-bold text-white font-display">
-              ATS<span className="text-brand-400">Analyzer</span>
+              ATS<span className="text-brand-400">Checker</span>
             </h1>
           </div>
 
@@ -104,7 +104,7 @@ export default function WakeUpScreen({ onVerified }: WakeUpScreenProps) {
               </button>
 
               <p className="text-gray-600 mt-6 text-xs">
-                This wakes up our analysis server so you can use the tool
+                This wakes up our analysis server so you can use the tool!
               </p>
             </>
           )}
@@ -143,7 +143,7 @@ export default function WakeUpScreen({ onVerified }: WakeUpScreenProps) {
               {/* Fun waiting tips */}
               <div className="mt-6 p-3 bg-white/5 rounded-xl border border-white/5">
                 <p className="text-gray-500 text-xs italic">
-                  💡 Tip: Grab a coffee while the server wakes up!
+                  💡 Tip: Grab a coffee or any hot beverage you like while the server wakes up!
                 </p>
               </div>
             </>
@@ -160,7 +160,7 @@ export default function WakeUpScreen({ onVerified }: WakeUpScreenProps) {
                 Server is online!
               </p>
               <p className="text-gray-400 text-sm">
-                Redirecting you to the analyzer...
+                Redirecting you to the checker...
               </p>
             </>
           )}

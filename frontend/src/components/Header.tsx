@@ -16,7 +16,7 @@ export default function Header() {
               <FileText className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold font-display text-gray-900">
-              ATS<span className="text-brand-600">Analyzer</span>
+              ATS<span className="text-brand-600">Checker</span>
             </span>
           </div>
 

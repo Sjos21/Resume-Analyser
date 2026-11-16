@@ -92,20 +92,20 @@ export default function ContactSection() {
             {/* Contact Info */}
             <div className="flex flex-wrap items-center gap-6">
               <a
-                href="mailto:Lovepatelforwork@gmail.com"
+                href="mailto:joshishivranjank@gmail.com"
                 className="flex items-center gap-2 text-gray-700 hover:text-brand-600 transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span>Lovepatelforwork@gmail.com</span>
+                <span>joshishivranjan@gmail.com</span>
               </a>
               <a
-                href="https://github.com/itslovepatel/Resume-ATS"
+                href="https://github.com/Sjos21/Resume-Analyser"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 text-gray-700 hover:text-brand-600 transition-colors"
               >
                 <Github className="w-5 h-5" />
-                <span>github.com/itslovepatel</span>
+                <span>github.com/Sjos21</span>
               </a>
             </div>
           </div>
@@ -226,7 +226,7 @@ export default function ContactSection() {
             Check out the code and help improve the resume analysis algorithms.
           </p>
           <a
-            href="https://github.com/itslovepatel/Resume-ATS"
+            href="https://github.com/Sjos21/Resume-Analyser"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 px-8 py-4 bg-white text-gray-900 font-semibold rounded-xl hover:bg-gray-100 transition-colors"

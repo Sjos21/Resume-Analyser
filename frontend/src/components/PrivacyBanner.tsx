@@ -24,8 +24,8 @@ export default function PrivacyBanner() {
             Your Data? We Don&apos;t Want It 🙅‍♂️
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Real talk: We literally don&apos;t store your resume data. Not because we&apos;re saints,
-            but because we don&apos;t have that kind of storage budget. Your privacy is secure by poverty. 😅
+            Real talk: We literally do not store your resume data. Not because we&apos;re saints,
+            but because we don&apos;t have that kind of storage budget, OOOOPPPSSS!!!. Your privacy is secured by me not wanting to put money onto storage. 😅
           </p>
         </motion.div>
 
@@ -95,13 +95,13 @@ export default function PrivacyBanner() {
           className="text-center mt-8"
         >
           <a
-            href="https://github.com/itslovepatel/Resume-ATS"
+            href="https://github.com/Sjos21/Resume-Analyser"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-green-700 hover:text-green-800 font-medium transition-colors"
           >
             <Github className="w-5 h-5" />
-            <span>Audit our code on GitHub</span>
+            <span>Audit deployed code on GitHub</span>
           </a>
         </motion.div>
       </div>

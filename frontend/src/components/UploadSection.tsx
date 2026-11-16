@@ -77,7 +77,7 @@ export default function UploadSection({ onAnalyze, error }: UploadSectionProps) 
             Upload Your Resume
           </h2>
           <p className="section-subtitle">
-            Drop your resume file and let our AI analyze it for ATS compatibility
+            Drop your resume file and let our AI check it for ATS compatibility
           </p>
         </motion.div>
 
