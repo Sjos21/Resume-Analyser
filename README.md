@@ -1,10 +1,5 @@
 # 🎯 ATS Resume Analyzer
 
-[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://resume-ats-mu.vercel.app)
-[![Backend API](https://img.shields.io/badge/API-Render-blue?style=for-the-badge)](https://resume-ats-backend.onrender.com/)
-[![GitHub Stars](https://img.shields.io/github/stars/itslovepatel/Resume-ATS?style=for-the-badge)](https://github.com/itslovepatel/Resume-ATS)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-
 > **Free ATS Resume Checker** · AI-Powered Resume Scanner · No Signup Required · Instant ATS Score
 
 A modern, AI-powered **ATS (Applicant Tracking System) Resume Analyzer** that helps job seekers understand how their resume performs in automated screening systems. **Supports 25+ industries** including Software, Healthcare, Finance, Legal, Education, and more!
