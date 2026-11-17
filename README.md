@@ -1,12 +1,12 @@
-# 🎯 ATS Resume Analyzer
+# 🎯 ATS Resume AI-Checker
 
-> **Free ATS Resume Checker** · AI-Powered Resume Scanner · No Signup Required · Instant ATS Score
+> **Free ATS Resume AI-Checker** · AI-Powered Resume Scanner · No Signup Required · Instant ATS Score
 
-A modern, AI-powered **ATS (Applicant Tracking System) Resume Analyzer** that helps job seekers understand how their resume performs in automated screening systems. **Supports 25+ industries** including Software, Healthcare, Finance, Legal, Education, and more!
+A modern, AI-powered **ATS (Applicant Tracking System) Resume Checker** that helps job seekers understand how their resume performs in automated screening systems. **Supports 25+ industries** including Software, Healthcare, Finance, Legal, Education, and more!
 
 🔗 Try it Live →(https://resume-analyser-virid-alpha.vercel.app/)
 
-![ATS Resume Analyzer Preview](./frontend/public/og-image.svg)
+![ATS Resume Checker Preview](./frontend/public/og-image.svg)
 
 ## 🔗 Deployments
 
