@@ -24,7 +24,7 @@ export default function ContactSection() {
     );
     
     // Open email client
-    window.location.href = `mailto:Lovepatelforwork@gmail.com?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:joshishivranjan@gmail.com?subject=${subject}&body=${body}`;
     
     // Simulate submission delay for UX
     setTimeout(() => {
