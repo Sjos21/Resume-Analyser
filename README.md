@@ -4,17 +4,13 @@
 
 A modern, AI-powered **ATS (Applicant Tracking System) Resume Analyzer** that helps job seekers understand how their resume performs in automated screening systems. **Supports 25+ industries** including Software, Healthcare, Finance, Legal, Education, and more!
 
-🔗 **[Try it Live →](https://resume-ats-mu.vercel.app/)**
+🔗 Try it Live →(https://resume-analyser-virid-alpha.vercel.app/)
 
-<!-- Project preview / OG image (also used for social shares) -->
 ![ATS Resume Analyzer Preview](./frontend/public/og-image.svg)
 
 ## 🔗 Deployments
 
-- Primary frontend (Vercel): https://resume-ats-mu.vercel.app
-- Alternate / vanity URL: https://ats.lovexog.me
-
-
+- Primary frontend (Vercel): https://resume-analyser-virid-alpha.vercel.app/
 
 ## ✨ What It Does
 
